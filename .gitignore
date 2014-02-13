@@ -1,0 +1,7 @@
+EvLogMail/bin/Debug/
+EvLogMail/obj/
+Frontend/bin/Debug/
+Frontend/obj/
+Service/bin/Debug/
+Service/obj/
+*.suo
